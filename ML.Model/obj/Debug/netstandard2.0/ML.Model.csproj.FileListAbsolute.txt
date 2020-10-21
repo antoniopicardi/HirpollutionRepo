@@ -1,0 +1,10 @@
+C:\Users\antonio.picardi\source\repos\ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\antonio.picardi\source\repos\ML.Model\bin\Debug\netstandard2.0\ML.Model.deps.json
+C:\Users\antonio.picardi\source\repos\ML.Model\bin\Debug\netstandard2.0\ML.Model.dll
+C:\Users\antonio.picardi\source\repos\ML.Model\bin\Debug\netstandard2.0\ML.Model.pdb
+C:\Users\antonio.picardi\source\repos\ML.Model\obj\Debug\netstandard2.0\ML.Model.csprojAssemblyReference.cache
+C:\Users\antonio.picardi\source\repos\ML.Model\obj\Debug\netstandard2.0\ML.Model.AssemblyInfoInputs.cache
+C:\Users\antonio.picardi\source\repos\ML.Model\obj\Debug\netstandard2.0\ML.Model.AssemblyInfo.cs
+C:\Users\antonio.picardi\source\repos\ML.Model\obj\Debug\netstandard2.0\ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\antonio.picardi\source\repos\ML.Model\obj\Debug\netstandard2.0\ML.Model.dll
+C:\Users\antonio.picardi\source\repos\ML.Model\obj\Debug\netstandard2.0\ML.Model.pdb
